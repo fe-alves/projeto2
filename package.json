@@ -1,0 +1,27 @@
+{
+  "name": "projeto2",
+  "version": "1.0.0",
+  "description": "Projeto apresentado para avaliação no curso de programação da Blue.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fe-alves/projeto2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fe-alves/projeto2/issues"
+  },
+  "homepage": "https://github.com/fe-alves/projeto2#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
